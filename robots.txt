@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iejooxooz.podman.io/sitemap.xml
